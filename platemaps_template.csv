@@ -1,0 +1,5 @@
+﻿Plate,Row,Column,Column_Name,CDF_Filename,Tissue,Group,Animal,Time,RNA_loaded,,
+Plate # for organization,Letter,#,Column name from .cdf file,Name of .cdf file used to generate data (excluding \'.cdf\'),Tissue/Organ - use consistent naming,#,#,days/hrs,ng (optional),,Please delete this entire row before saving
+1,A,1,Col1,20211106_2021-10-26-CNM,Gastroc,1001,1,24,105.8,,
+2,D,11,Gas4,20220406_2022-04-05-FOP-titration,Gastroc,3,3,24,82.67,,
+1,G,7,7,20220708_2022-07-07-704-DM2-Pset2,VL,15,2,48,201.2,,
